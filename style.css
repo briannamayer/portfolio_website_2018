@@ -1,0 +1,14 @@
+nav {
+    border: 5px solid
+    display: flex;
+}
+nav a{
+    text-decoration: none;
+    //text-align:center;
+    color: #6D7F9B;
+    display: block;
+}
+
+nav a:hover {
+    background-color: #6D869B
+}
