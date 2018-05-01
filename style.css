@@ -1,14 +1,25 @@
 nav {
-    border: 5px solid
+    border: 5px solid;
     display: flex;
-}
-nav a{
-    text-decoration: none;
-    //text-align:center;
-    color: #6D7F9B;
-    display: block;
+    padding: 5px;
+    background-color: #6D869B;
+    text-align: center
 }
 
-nav a:hover {
-    background-color: #6D869B
+body {
+    background-color: #DCEAFE;
+    border: 2px solid;
+    padding: 5px
+}
+ul.second-ul{
+    background-color: #ABC7D6;
+    border: 2px solid;
+    padding: 5px
+}
+
+p {
+    background-color: #ABC7D6;
+    border: 2px solid;
+    padding: 5px;
+    height: 128px
 }
