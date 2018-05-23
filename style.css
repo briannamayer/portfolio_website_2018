@@ -88,6 +88,10 @@ h3 {
     margin-bottom:0
 }
 
+#profileimg {
+    background-color: #DDEAFD
+}
+
 img {
     position: relative;
     margin-left: 14px;
@@ -95,11 +99,22 @@ img {
     display: flex;
 }
 
+#flexthings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 10px;
+    margin-left: 10px
+}
+
 li {
     display: inline-block;
     list-style: none;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    font-family: 'Snake';;
+    font-size: 25px;
 }
 
 body {
@@ -152,6 +167,11 @@ p {
     background-color: #6D869B;
     border: 2px solid;
     padding: 5px;
+    font-family: 'Snake';
+    font-weight: normal;
+    font-size: 25px;
+    text-align: center;
+
 
     font-family:
 }
